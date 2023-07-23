@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <h1 align="center">Hi there 👋, I'm Parul Pandey</h1>
 <h3 align="center">Frontend Developer skilled in designing engaging web experiences with JavaScript and CSS, backed by proficiency in Java Data Structures and Algorithms for efficient problem-solving.</h3>
