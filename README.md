@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=parul1606&label=Profile%20views&color=0e67b6&style=flat" alt="parul1606" /> </p> 
 
-<p align="left" style="margin: 35px;"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=parul1606" alt="parul1606" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy" style="margin: 10px;"><img src="https://github-profile-trophy.vercel.app/?username=parul1606" alt="parul1606" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/parulpa37629488" target="blank"><img src="https://img.shields.io/twitter/follow/parulpa37629488?logo=twitter&style=for-the-badge" alt="parulpa37629488" /></a> </p>
 
