@@ -2,16 +2,9 @@
 <h1 align="center">Hi there 👋, I'm Parul Pandey</h1>
 <h3 align="center">Frontend Developer skilled in designing engaging web experiences with JavaScript and CSS, backed by proficiency in Java Data Structures and Algorithms for efficient problem-solving.</h3>
 
-<div style="display: flex; align-items: center;">
-  <a href="https://github.com/ryo-ma/github-profile-trophy" style="margin-right: 10px;">
-    <img src="https://github-profile-trophy.vercel.app/?username=parul1606" alt="parul1606" />
-  </a>
-  <!-- Add more <a> elements here if needed -->
-</div>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=parul1606&label=Profile%20views&color=0e67b6&style=flat" alt="parul1606" /> </p> 
 
-<!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=parul1606&label=Profile%20views&color=0e67b6&style=flat" alt="parul1606" /> </p> 
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy" style="margin: 10px;"><img src="https://github-profile-trophy.vercel.app/?username=parul1606" alt="parul1606" /></a> </p> -->
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy" style="margin: 10px;"><img src="https://github-profile-trophy.vercel.app/?username=parul1606" alt="parul1606" /></a> </p> 
 
 <p align="left"> <a href="https://twitter.com/parulpa37629488" target="blank"><img src="https://img.shields.io/twitter/follow/parulpa37629488?logo=twitter&style=for-the-badge" alt="parulpa37629488" /></a> </p>
 
