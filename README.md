@@ -28,7 +28,7 @@
 <a href="https://www.codechef.com/users/parul_166" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="parul_166" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/parulss1606" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="parulss1606" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/parulss1606/?utm_source=geeksforgeeks&utm_medium=my_profile&utm_campaign=auth_user" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="parulss1606/?utm_source=geeksforgeeks&utm_medium=my_profile&utm_campaign=auth_user" height="30" width="40" /></a>
-<a href="https://discord.gg/parulll_16#7568" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="7568" height="30" width="40" /></a>
+<a href="https://discord.gg/#7568" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="7568" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
