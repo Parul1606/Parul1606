@@ -46,7 +46,7 @@
 
 [![Parul1606's GitHub | Languages Over Time](https://stats.quine.sh/Parul1606/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Parul1606)
 
-
+<p align="center"> <img src = "https://user-images.githubusercontent.com/62784060/154093320-99598cbd-cce0-4dda-a9e5-38c947f088d5.jpg" style="margin: 10px" username="coderVivek" alt="codevivek" /></p>
 <!--
 **Parul1606/Parul1606** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
