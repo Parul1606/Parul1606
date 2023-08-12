@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy" style="margin: 10px;"><img src="https://github-profile-trophy.vercel.app/?username=parul1606" alt="parul1606" /></a> </p> 
 
-<p align="left"> <a href="https://twitter.com/parulpa37629488" target="blank"><img src="https://img.shields.io/twitter/follow/parulpa37629488?logo=twitter&style=for-the-badge" alt="parulpa37629488" /></a> </p>
+<!--<p align="left"> <a href="https://twitter.com/parulpa37629488" target="blank"><img src="https://img.shields.io/twitter/follow/parulpa37629488?logo=twitter&style=for-the-badge" alt="parulpa37629488" /></a> </p> -->
 
 - 🔭 I’m currently working on my **Portfolio Website**
 
