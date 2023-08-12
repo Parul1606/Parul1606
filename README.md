@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on my **Portfolio Website**
 
-- 🌱 I’m currently learning **JS, React JS, DSA.**
+- 🌱 I’m currently learning **JS, React JS, Java, DSA.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Parul1606?tab=repositories](https://github.com/Parul1606?tab=repositories)
 
