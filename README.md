@@ -42,7 +42,7 @@
 
 [![Parul1606's GitHub | Topics Over Time](https://stats.quine.sh/Parul1606/topics-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Parul1606) 
 
-[![Parul1606's GitHub | Stats](https://stats.quine.sh/Parul1606/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Parul1606)
+[![Parul1606's GitHub | Stats](https://stats.quine.sh/Parul1606/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Parul1606) 
 
 [![Parul1606's GitHub | Languages Over Time](https://stats.quine.sh/Parul1606/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Parul1606)
 
