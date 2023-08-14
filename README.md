@@ -49,7 +49,7 @@
 <!--
 <p align="center"> <img src = "https://user-images.githubusercontent.com/62784060/154093320-99598cbd-cce0-4dda-a9e5-38c947f088d5.jpg" style="margin: 10px; height: 20vh; border-radius: 5rem;" username="coderVivek" alt="codevivek" /></p> -->
 <!--
-**Parul1606/Parul1606** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Parul1606/Parul1606** is a ✨ _unique_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
