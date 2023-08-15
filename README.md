@@ -38,7 +38,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=parul1606&show_icons=true&locale=en" alt="parul1606" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=parul1606&" alt="parul1606" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=parul1606&" alt="parul1606"/></p>
 
 [![Parul1606's GitHub | Topics Over Time](https://stats.quine.sh/Parul1606/topics-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Parul1606) 
 
