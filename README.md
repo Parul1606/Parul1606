@@ -2,7 +2,7 @@
 <h1 align="center">Hi there 👋, I'm Parul Pandey</h1>      
   
 <!--<h3 align="center">Frontend Developer skilled in designing engaging web experiences with JavaScript and CSS, backed by proficiency in Java Data Structures and Algorithms for efficient problem-solving.</h3> -->
-
+ 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=parul1606&label=Profile%20views&color=0e67b6&style=flat" alt="parul1606" /> </p> 
   
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy" style="margin: 10px;"><img src="https://github-profile-trophy.vercel.app/?username=parul1606" alt="parul1606" /></a> </p> 
