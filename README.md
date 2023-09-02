@@ -104,6 +104,7 @@
  
 ## ❤ Views and Followers
 <a href="https://github.com/xdragon2002?tab=followers"><img src="https://img.shields.io/github/followers/xdragon2002?label=Followers&style=social" alt="GitHub Badge"></a>   ![Profile views](https://gpvc.arturio.dev/xdragon2002)  -->
+
 <h1 align="center">Hi there 👋, I'm Parul Pandey</h1>      
    
 <!--<h3 align="center">Frontend Developer skilled in designing engaging web experiences with JavaScript and CSS, backed by proficiency in Java Data Structures and Algorithms for efficient problem-solving.</h3> -->
