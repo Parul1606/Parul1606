@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
+<!--<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">, I'm DRAGON2002!
 <h3 align="center">I'm a passionate Full Stack Developer and love tinkering with Artificial Intelligence.</h3>
@@ -91,7 +91,7 @@
  
 <br/>
 <br/>
-
+<!--
 ## Connect with me:
 <p align="left">
 
@@ -103,7 +103,7 @@
 </p>
  
 ## ❤ Views and Followers
-<a href="https://github.com/xdragon2002?tab=followers"><img src="https://img.shields.io/github/followers/xdragon2002?label=Followers&style=social" alt="GitHub Badge"></a>   ![Profile views](https://gpvc.arturio.dev/xdragon2002)  
+<a href="https://github.com/xdragon2002?tab=followers"><img src="https://img.shields.io/github/followers/xdragon2002?label=Followers&style=social" alt="GitHub Badge"></a>   ![Profile views](https://gpvc.arturio.dev/xdragon2002)  -->
 <h1 align="center">Hi there 👋, I'm Parul Pandey</h1>      
    
 <!--<h3 align="center">Frontend Developer skilled in designing engaging web experiences with JavaScript and CSS, backed by proficiency in Java Data Structures and Algorithms for efficient problem-solving.</h3> -->
