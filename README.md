@@ -40,6 +40,8 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=parul1606&" alt="parul1606"/></p>
 
+[![HacktoberFest](holopin.io/@parul1606)]
+
 [![Parul1606's GitHub | Topics Over Time](https://stats.quine.sh/Parul1606/topics-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Parul1606) 
 
 [![Parul1606's GitHub | Stats](https://stats.quine.sh/Parul1606/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Parul1606) 
