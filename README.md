@@ -14,7 +14,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Parul1606?tab=repositories](https://github.com/Parul1606?tab=repositories)
 
-- 💬 Ask me about **HTML, CSS, JavaScript, Java**
+- 💬 Ask me about **HTML, CSS, JavaScript, ReactJS, Java, DSA**
 
 - 📫 How to reach me **parulss1606@gmail.com**
 
