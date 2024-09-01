@@ -10,11 +10,11 @@
 
 - 🔭 I’m currently working on my **Portfolio Website**
  
-- 🌱 I’m currently learning **JS, React JS, Java, DSA.**
+- 🌱 I’m currently learning **Tailwind CSS, Redux toolkit, Java, DSA.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Parul1606?tab=repositories](https://github.com/Parul1606?tab=repositories)
 
-- 💬 Ask me about **HTML, CSS, JavaScript, ReactJS, Java, DSA**
+- 💬 Ask me about **HTML, CSS, JavaScript, ReactJS,Redux toolkit, Java, DSA**
 
 - 📫 How to reach me **parulss1606@gmail.com**
 
