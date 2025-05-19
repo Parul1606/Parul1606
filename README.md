@@ -8,7 +8,7 @@
 
 <!--<p align="left"> <a href="https://twitter.com/parulpa37629488" target="blank"><img src="https://img.shields.io/twitter/follow/parulpa37629488?logo=twitter&style=for-the-badge" alt="parulpa37629488" /></a> </p> -->
  
-- 🌱 I’m currently learning **Tailwind CSS, Redux toolkit, Java, DSA.**
+- 🌱 I’m currently learning **Tailwind CSS, Redux toolkit, Java, Spring Boot, DSA.**
 
 - 👨‍💻 All of my projects are available in the [repositories](https://github.com/Parul1606?tab=repositories)
 
