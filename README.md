@@ -10,7 +10,7 @@
  
 - 🌱 I’m currently learning **Tailwind CSS, Redux toolkit, Java, DSA.**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Parul1606?tab=repositories](https://github.com/Parul1606?tab=repositories)
+- 👨‍💻 All of my projects are available in the [repositories](https://github.com/Parul1606?tab=repositories)
 
 - 💬 Ask me about **HTML, CSS, JavaScript, ReactJS,Redux toolkit, Java, DSA**
 
